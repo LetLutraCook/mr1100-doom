@@ -1,5 +1,7 @@
 # DOOM on the Netgear MR1100
 
+## ⚠️ Project is vibecoded!
+
 A custom [Doomgeneric](https://github.com/ozkl/doomgeneric) backend that runs DOOM/Freedoom on the built-in 320×240 LCD of the Netgear Nighthawk M1 (MR1100).
 
 The MR1100 runs the game locally. A small Windows Python script sends keyboard events to the router over UDP.
