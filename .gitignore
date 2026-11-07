@@ -1,0 +1,27 @@
+# Build outputs
+build/
+doomgeneric
+*.o
+*.elf
+*.bin
+*.map
+*.gdb
+
+# DOOM / Freedoom game data and runtime files
+*.wad
+.default.cfg
+.savegame/
+
+# Local diagnostics
+fbinfo
+fbtest
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
